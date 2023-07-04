@@ -1,0 +1,282 @@
+{
+    "threshold": 50, 
+    "sections": [
+        {
+            "name": "questions",
+            "items": [
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 549], "radius": 11},
+                        {"shape": "circle", "center": [259, 549], "radius": 11},
+                        {"shape": "circle", "center": [291, 549], "radius": 11},
+                        {"shape": "circle", "center": [322, 549], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 612], "radius": 11},
+                        {"shape": "circle", "center": [259, 612], "radius": 11},
+                        {"shape": "circle", "center": [291, 612], "radius": 11},
+                        {"shape": "circle", "center": [322, 612], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 674], "radius": 11},
+                        {"shape": "circle", "center": [259, 674], "radius": 11},
+                        {"shape": "circle", "center": [291, 674], "radius": 11},
+                        {"shape": "circle", "center": [322, 674], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 737], "radius": 11},
+                        {"shape": "circle", "center": [259, 737], "radius": 11},
+                        {"shape": "circle", "center": [291, 737], "radius": 11},
+                        {"shape": "circle", "center": [322, 737], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 800], "radius": 11},
+                        {"shape": "circle", "center": [259, 800], "radius": 11},
+                        {"shape": "circle", "center": [291, 800], "radius": 11},
+                        {"shape": "circle", "center": [322, 800], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 862], "radius": 11},
+                        {"shape": "circle", "center": [259, 862], "radius": 11},
+                        {"shape": "circle", "center": [291, 862], "radius": 11},
+                        {"shape": "circle", "center": [322, 862], "radius": 11}
+                    ]
+                },{
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 925], "radius": 11},
+                        {"shape": "circle", "center": [259, 925], "radius": 11},
+                        {"shape": "circle", "center": [291, 925], "radius": 11},
+                        {"shape": "circle", "center": [322, 925], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 988], "radius": 11},
+                        {"shape": "circle", "center": [259, 988], "radius": 11},
+                        {"shape": "circle", "center": [291, 988], "radius": 11},
+                        {"shape": "circle", "center": [322, 988], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 1051], "radius": 11},
+                        {"shape": "circle", "center": [259, 1051], "radius": 11},
+                        {"shape": "circle", "center": [291, 1051], "radius": 11},
+                        {"shape": "circle", "center": [322, 1051], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [228, 1113], "radius": 11},
+                        {"shape": "circle", "center": [259, 1113], "radius": 11},
+                        {"shape": "circle", "center": [291, 1113], "radius": 11},
+                        {"shape": "circle", "center": [322, 1113], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 547], "radius": 11},
+                        {"shape": "circle", "center": [622, 547], "radius": 11},
+                        {"shape": "circle", "center": [654, 547], "radius": 11},
+                        {"shape": "circle", "center": [685, 547], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 609], "radius": 11},
+                        {"shape": "circle", "center": [622, 609], "radius": 11},
+                        {"shape": "circle", "center": [654, 609], "radius": 11},
+                        {"shape": "circle", "center": [685, 609], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 672], "radius": 11},
+                        {"shape": "circle", "center": [622, 672], "radius": 11},
+                        {"shape": "circle", "center": [654, 672], "radius": 11},
+                        {"shape": "circle", "center": [685, 672], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 735], "radius": 11},
+                        {"shape": "circle", "center": [622, 735], "radius": 11},
+                        {"shape": "circle", "center": [654, 735], "radius": 11},
+                        {"shape": "circle", "center": [685, 735], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 797], "radius": 11},
+                        {"shape": "circle", "center": [622, 797], "radius": 11},
+                        {"shape": "circle", "center": [654, 797], "radius": 11},
+                        {"shape": "circle", "center": [685, 797], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 860], "radius": 11},
+                        {"shape": "circle", "center": [622, 860], "radius": 11},
+                        {"shape": "circle", "center": [654, 860], "radius": 11},
+                        {"shape": "circle", "center": [685, 860], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 923], "radius": 11},
+                        {"shape": "circle", "center": [622, 923], "radius": 11},
+                        {"shape": "circle", "center": [654, 923], "radius": 11},
+                        {"shape": "circle", "center": [685, 923], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 986], "radius": 11},
+                        {"shape": "circle", "center": [622, 986], "radius": 11},
+                        {"shape": "circle", "center": [654, 986], "radius": 11},
+                        {"shape": "circle", "center": [685, 986], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 1048], "radius": 11},
+                        {"shape": "circle", "center": [622, 1048], "radius": 11},
+                        {"shape": "circle", "center": [654, 1048], "radius": 11},
+                        {"shape": "circle", "center": [685, 1048], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "multiple_choice",
+                    "options": ["A", "B", "C", "D"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [591, 1111], "radius": 11},
+                        {"shape": "circle", "center": [622, 1111], "radius": 11},
+                        {"shape": "circle", "center": [654, 1111], "radius": 11},
+                        {"shape": "circle", "center": [685, 1111], "radius": 11}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "student_info",
+            "items": [
+                {
+                    "type": "id_digit",
+                    "position": 1,
+                    "options": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [120, 163], "radius": 11},
+                        {"shape": "circle", "center": [120, 195], "radius": 11},
+                        {"shape": "circle", "center": [120, 226], "radius": 11},
+                        {"shape": "circle", "center": [120, 257], "radius": 11},
+                        {"shape": "circle", "center": [120, 288], "radius": 11},
+                        {"shape": "circle", "center": [120, 320], "radius": 11},
+                        {"shape": "circle", "center": [120, 351], "radius": 11},
+                        {"shape": "circle", "center": [120, 382], "radius": 11},
+                        {"shape": "circle", "center": [120, 414], "radius": 11},
+                        {"shape": "circle", "center": [120, 446], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "id_digit",
+                    "position": 2,
+                    "options": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [151, 163], "radius": 11},
+                        {"shape": "circle", "center": [151, 195], "radius": 11},
+                        {"shape": "circle", "center": [151, 226], "radius": 11},
+                        {"shape": "circle", "center": [151, 257], "radius": 11},
+                        {"shape": "circle", "center": [151, 288], "radius": 11},
+                        {"shape": "circle", "center": [151, 320], "radius": 11},
+                        {"shape": "circle", "center": [151, 351], "radius": 11},
+                        {"shape": "circle", "center": [151, 382], "radius": 11},
+                        {"shape": "circle", "center": [151, 414], "radius": 11},
+                        {"shape": "circle", "center": [151, 446], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "id_digit",
+                    "position": 3,
+                    "options": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [183, 163], "radius": 11},
+                        {"shape": "circle", "center": [183, 195], "radius": 11},
+                        {"shape": "circle", "center": [183, 226], "radius": 11},
+                        {"shape": "circle", "center": [183, 257], "radius": 11},
+                        {"shape": "circle", "center": [183, 288], "radius": 11},
+                        {"shape": "circle", "center": [183, 320], "radius": 11},
+                        {"shape": "circle", "center": [183, 351], "radius": 11},
+                        {"shape": "circle", "center": [183, 382], "radius": 11},
+                        {"shape": "circle", "center": [183, 414], "radius": 11},
+                        {"shape": "circle", "center": [183, 446], "radius": 11}
+                    ]
+                },
+                {
+                    "type": "id_digit",
+                    "position": 4,
+                    "options": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+                    "bubbles": [
+                        {"shape": "circle", "center": [214, 163], "radius": 11},
+                        {"shape": "circle", "center": [214, 195], "radius": 11},
+                        {"shape": "circle", "center": [214, 226], "radius": 11},
+                        {"shape": "circle", "center": [214, 257], "radius": 11},
+                        {"shape": "circle", "center": [214, 288], "radius": 11},
+                        {"shape": "circle", "center": [214, 320], "radius": 11},
+                        {"shape": "circle", "center": [214, 351], "radius": 11},
+                        {"shape": "circle", "center": [214, 382], "radius": 11},
+                        {"shape": "circle", "center": [214, 414], "radius": 11},
+                        {"shape": "circle", "center": [214, 446], "radius": 11}
+                    ]
+                }
+            ]
+        }
+    ]
+}

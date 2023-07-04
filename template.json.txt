@@ -1,0 +1,53 @@
+// This is an example of how should your template.json file be structured. If you wish to use this as boilerplate, please remove all the comments.
+{
+    // Threshold percentage of white pixels required for an option to be considered selected
+    "threshold": 50,
+    
+    // Array of sections in the answer sheet
+    "sections": [
+        // Example of a section named "questions". It does not have to be named "questions."
+        {
+            "name": "questions",  // Name of this section
+            "items": [
+                // Example of a multiple choice question with 4 options
+                {
+                    "type": "multiple_choice",  // Type of question. Currently the type is irrelevant, but was added for future improvements. 
+                    "options": ["A", "B", "C", "D"],  // Options for the multiple choice question. The final output will be in terms of values in this list. Length of this list should be same of bubbles list.
+                    "bubbles": [
+                        // Bubbles corresponding to options. In this example, they are circles
+                        {"shape": "circle", "center": [100, 200], "radius": 10},
+                        {"shape": "circle", "center": [100, 250], "radius": 10},
+                        {"shape": "circle", "center": [100, 300], "radius": 10},
+                        {"shape": "circle", "center": [100, 350], "radius": 10}
+                    ]
+                },
+                // Example of a true or false question
+                {
+                    "type": "true_false",  // Type of question. Again, irrelevant.
+                    "options": ["T", "F"],  // Options for the true/false question
+                    "bubbles": [
+                        // Bubbles corresponding to options. In this example, they are rectangles
+                        {"shape": "rectangle", "top_left": [200, 200], "bottom_right": [220, 220]},
+                        {"shape": "rectangle", "top_left": [200, 250], "bottom_right": [220, 270]}
+                    ]
+                }
+            ]
+        },
+        // Example of another section named "student_info"
+        {
+            "name": "student_info",  // Name of this section
+            "items": [
+                // Example of an ID field
+                {
+                    "type": "id",  // Type of field
+                    "options": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],  // Numeric options for the ID
+                    "bubbles": [
+                        // Bubbles corresponding to options. In this example, they are ellipses
+                        {"shape": "ellipse", "center": [300, 100], "axes": [10, 5], "angle": 0},
+                        {"shape": "ellipse", "center": [300, 120], "axes": [10, 5], "angle": 0}
+                    ]
+                }
+            ]
+        }
+    ]
+}
